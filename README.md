@@ -8,6 +8,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://github.com/p
 | ------- |
 | [0011-container-with-most-water](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,8 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://github.com/p
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
