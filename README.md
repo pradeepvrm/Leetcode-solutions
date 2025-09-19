@@ -1,5 +1,5 @@
 # Leetcode-solutions
-Collection of LeetCode questions solved by- [Pradeep Verma](https://github.com/pradeepvrm)
+Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com/u/pradeepverma/)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
