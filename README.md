@@ -64,4 +64,12 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
