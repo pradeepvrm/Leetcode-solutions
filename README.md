@@ -10,6 +10,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | [0015-3sum](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0907-koko-eating-bananas](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
