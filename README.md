@@ -30,12 +30,14 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -43,6 +45,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
@@ -96,6 +99,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
