@@ -18,6 +18,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | ------- |
 | [0011-container-with-most-water](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0015-3sum) |
+| [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +101,16 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
