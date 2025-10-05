@@ -104,6 +104,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
@@ -112,5 +113,10 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
