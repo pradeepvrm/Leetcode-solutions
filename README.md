@@ -61,6 +61,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +124,12 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
