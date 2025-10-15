@@ -60,6 +60,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -127,9 +128,18 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
