@@ -10,6 +10,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | [0015-3sum](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0078-subsets) |
 | [0347-top-k-frequent-elements](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
@@ -142,4 +144,8 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
