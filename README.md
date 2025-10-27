@@ -104,6 +104,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -131,6 +132,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -140,10 +142,12 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
