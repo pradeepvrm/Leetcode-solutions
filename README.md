@@ -117,6 +117,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
