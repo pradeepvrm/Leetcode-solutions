@@ -29,6 +29,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -104,6 +106,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -122,6 +125,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
