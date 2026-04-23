@@ -21,6 +21,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | ------- |
 | [0011-container-with-most-water](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0015-3sum) |
+| [0142-linked-list-cycle-ii](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
