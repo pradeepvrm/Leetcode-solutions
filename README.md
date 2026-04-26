@@ -102,6 +102,7 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
@@ -138,10 +139,12 @@ Collection of LeetCode questions solved by- [Pradeep Verma](https://leetcode.com
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pradeepvrm/Leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
